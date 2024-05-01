@@ -1,26 +1,26 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+import numpy as np
 
-# Load the Excel file
-data = pd.read_excel('combined_k_nearest_neighbors.xlsx')
+# Load the Excel file containing combined k-nearest neighbors
+combined_data_path = 'combined_k_nearest_neighbors.xlsx'  # Update the file path
+combined_data = pd.read_excel(combined_data_path)
 
-# Use matplotlib for plotting
-plt.figure(figsize=(12, 6))
+# Create a dictionary to store recommended EPS values
+eps_values = {}
 
-# Draw a line graph for Quick Assets/Total Assets
-plt.subplot(1, 2, 1)  # 1 row, 2 columns, first plot
-plt.plot(data[' Quick Assets/Total Assets'], color='blue')
-plt.title('Line Plot of Quick Assets/Total Assets')
-plt.xlabel('Index')
-plt.ylabel('Value')
+# Process each column
+for column in combined_data.columns:
+    # Take only numerical values (excluding Distance values)
+    if column != 'Unnamed: 0':
+        # Calculate the recommended EPS value (as the mean of distance values)
+        eps = np.mean(combined_data[column])
+        eps_values[column] = eps
 
-# Draw a line graph for Current Assets/Total Assets
-plt.subplot(1, 2, 2)  # 1 row, 2 columns, second plot
-plt.plot(data[' Current Assets/Total Assets'], color='green')
-plt.title('Line Plot of Current Assets/Total Assets')
-plt.xlabel('Index')
-plt.ylabel('Value')
+# Create a DataFrame containing EPS values
+eps_df = pd.DataFrame(list(eps_values.items()), columns=['Column Name', 'EPS Value'])
 
-# Display the plots
-plt.tight_layout()
-plt.show()
+# Write EPS values to an Excel file
+eps_excel_path = 'recommended_eps_values.xlsx'  # Path to the Excel file to be saved
+eps_df.to_excel(eps_excel_path, index=False)
+
+print("Recommended EPS values successfully calculated and written to an Excel file.")
