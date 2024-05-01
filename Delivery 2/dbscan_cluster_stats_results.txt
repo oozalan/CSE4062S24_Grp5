@@ -1,0 +1,1345 @@
+ Quick Assets/Total Assets Cluster -1 Statistics:
+Mean: 0.6609343278665782
+Variance: 0.10064441513232288
+Standard Deviation: 0.31724503957087
+
+ Quick Assets/Total Assets Cluster 0 Statistics:
+Mean: 0.16900357195686455
+Variance: 1.6123252846095326e-06
+Standard Deviation: 0.0012697737139386422
+
+ Quick Assets/Total Assets Cluster 1 Statistics:
+Mean: 0.12697339927295798
+Variance: 3.1085833841027418e-06
+Standard Deviation: 0.0017631175185173398
+
+ Quick Assets/Total Assets Cluster 2 Statistics:
+Mean: 0.33735928593399017
+Variance: 4.517252891809218e-05
+Standard Deviation: 0.006721051176571428
+
+ Quick Assets/Total Assets Cluster 3 Statistics:
+Mean: 0.1611618537362619
+Variance: 1.165221245280802e-05
+Standard Deviation: 0.003413533719301454
+
+ Quick Assets/Total Assets Cluster 4 Statistics:
+Mean: 0.26471460563136906
+Variance: 0.0004151973932104198
+Standard Deviation: 0.02037639303729735
+
+ Quick Assets/Total Assets Cluster 5 Statistics:
+Mean: 0.07994819508067114
+Variance: 1.2108786856140815e-07
+Standard Deviation: 0.0003479768218738256
+
+ Quick Assets/Total Assets Cluster 6 Statistics:
+Mean: 0.35751233546658046
+Variance: 2.392167328294054e-05
+Standard Deviation: 0.004890978765333227
+
+ Quick Assets/Total Assets Cluster 7 Statistics:
+Mean: 0.37434385403020626
+Variance: 1.7070794622012576e-05
+Standard Deviation: 0.004131681815194943
+
+ Quick Assets/Total Assets Cluster 8 Statistics:
+Mean: 0.39444481001205534
+Variance: 5.0294405405065986e-05
+Standard Deviation: 0.007091854863508276
+
+ Quick Assets/Total Assets Cluster 9 Statistics:
+Mean: 0.13862397213569844
+Variance: 8.359789650318984e-07
+Standard Deviation: 0.0009143188530441108
+
+ Quick Assets/Total Assets Cluster 10 Statistics:
+Mean: 0.21894783131523293
+Variance: 5.027383588578151e-06
+Standard Deviation: 0.0022421827732319573
+
+ Quick Assets/Total Assets Cluster 11 Statistics:
+Mean: 0.19307808606569812
+Variance: 0.0001503216467853973
+Standard Deviation: 0.012260572857146492
+
+ Quick Assets/Total Assets Cluster 12 Statistics:
+Mean: 0.09636443939233164
+Variance: 2.6467418245465934e-06
+Standard Deviation: 0.001626881011182623
+
+ Quick Assets/Total Assets Cluster 13 Statistics:
+Mean: 0.4658069525475483
+Variance: 0.0011589915987770896
+Standard Deviation: 0.03404396567348007
+
+ Quick Assets/Total Assets Cluster 14 Statistics:
+Mean: 0.1015138319635373
+Variance: 8.662917702057522e-07
+Standard Deviation: 0.0009307479627728186
+
+ Quick Assets/Total Assets Cluster 15 Statistics:
+Mean: 0.3132616652191009
+Variance: 4.5907535992514396e-05
+Standard Deviation: 0.006775510017151063
+
+ Quick Assets/Total Assets Cluster 16 Statistics:
+Mean: 0.1058754146312943
+Variance: 1.7004575318877484e-06
+Standard Deviation: 0.0013040159247063466
+
+ Quick Assets/Total Assets Cluster 17 Statistics:
+Mean: 0.22613983159265494
+Variance: 2.623567376269406e-06
+Standard Deviation: 0.0016197429969811278
+
+ Quick Assets/Total Assets Cluster 18 Statistics:
+Mean: 0.062387461451154556
+Variance: 1.20235460688489e-06
+Standard Deviation: 0.0010965193144148852
+
+ Quick Assets/Total Assets Cluster 19 Statistics:
+Mean: 0.1144477057095645
+Variance: 1.1333388537167259e-06
+Standard Deviation: 0.0010645838875902292
+
+ Quick Assets/Total Assets Cluster 20 Statistics:
+Mean: 0.5552243844760192
+Variance: 3.412843613976255e-05
+Standard Deviation: 0.0058419548217837625
+
+ Quick Assets/Total Assets Cluster 21 Statistics:
+Mean: 0.08685806973144129
+Variance: 1.2224778791475373e-06
+Standard Deviation: 0.0011056572159342773
+
+ Quick Assets/Total Assets Cluster 22 Statistics:
+Mean: 0.5671067428661658
+Variance: 4.430107412177502e-07
+Standard Deviation: 0.0006655905206790059
+
+ Quick Assets/Total Assets Cluster 23 Statistics:
+Mean: 0.06841186371716522
+Variance: 1.187977212172878e-07
+Standard Deviation: 0.0003446704530668212
+
+ Quick Assets/Total Assets Cluster 24 Statistics:
+Mean: 0.09182210564952394
+Variance: 3.8537818593829086e-07
+Standard Deviation: 0.0006207883584107315
+
+ Quick Assets/Total Assets Cluster 25 Statistics:
+Mean: 0.12182566124080255
+Variance: 6.005973369731189e-07
+Standard Deviation: 0.000774982152680382
+
+ Quick Assets/Total Assets Cluster 26 Statistics:
+Mean: 0.6425962523044128
+Variance: 5.693946561811566e-06
+Standard Deviation: 0.0023861991873713236
+
+ Quick Assets/Total Assets Cluster 27 Statistics:
+Mean: 0.07652561427041364
+Variance: 1.3659967074617487e-06
+Standard Deviation: 0.0011687586181336799
+
+ Quick Assets/Total Assets Cluster 28 Statistics:
+Mean: 0.1336017773551711
+Variance: 3.7269769685013414e-06
+Standard Deviation: 0.001930537999755856
+
+ Quick Assets/Total Assets Cluster 29 Statistics:
+Mean: 0.14737078817940508
+Variance: 1.273745679999621e-05
+Standard Deviation: 0.003568957382765478
+
+ Quick Assets/Total Assets Cluster 30 Statistics:
+Mean: 0.5804964472755691
+Variance: 4.3409188686149744e-05
+Standard Deviation: 0.006588564994454388
+
+ Quick Assets/Total Assets Cluster 31 Statistics:
+Mean: 0.11073393332874427
+Variance: 7.143001299221668e-07
+Standard Deviation: 0.0008451627830910249
+
+ Quick Assets/Total Assets Cluster 32 Statistics:
+Mean: 0.05781818602963078
+Variance: 1.1628064029577959e-06
+Standard Deviation: 0.0010783350142501151
+
+ Quick Assets/Total Assets Cluster 33 Statistics:
+Mean: 0.05029369799237038
+Variance: 1.592495542784201e-07
+Standard Deviation: 0.0003990608403218989
+
+ Quick Assets/Total Assets Cluster 34 Statistics:
+Mean: 0.07075397215355284
+Variance: 2.7666125468586893e-08
+Standard Deviation: 0.0001663313724725041
+
+ Quick Assets/Total Assets Cluster 35 Statistics:
+Mean: 0.05260810855024952
+Variance: 6.587549633872973e-07
+Standard Deviation: 0.0008116372116822253
+
+ Quick Assets/Total Assets Cluster 36 Statistics:
+Mean: 0.047453262805378475
+Variance: 1.4683640836013864e-07
+Standard Deviation: 0.0003831923907910211
+
+ Quick Assets/Total Assets Cluster 37 Statistics:
+Mean: 0.040866354569986885
+Variance: 2.182809396946325e-07
+Standard Deviation: 0.0004672054576892617
+
+ Quick Assets/Total Assets Cluster 38 Statistics:
+Mean: 0.04493968697640234
+Variance: 4.318066077451395e-08
+Standard Deviation: 0.0002077995687543984
+
+ Quick Assets/Total Assets Cluster 39 Statistics:
+Mean: 0.5372005141652094
+Variance: 2.2771625861141673e-05
+Standard Deviation: 0.004771962474825391
+
+ Quick Assets/Total Assets Cluster 40 Statistics:
+Mean: 0.5994066384304154
+Variance: 1.2640283463997896e-05
+Standard Deviation: 0.003555317631942032
+
+ Quick Assets/Total Assets Cluster 41 Statistics:
+Mean: 0.6820115100560902
+Variance: 3.9060276352640465e-07
+Standard Deviation: 0.0006249822105679526
+
+ Quick Assets/Total Assets Cluster 42 Statistics:
+Mean: 0.6581807635382988
+Variance: 3.152269921874798e-07
+Standard Deviation: 0.0005614507923117392
+
+ Quick Assets/Total Assets Cluster 43 Statistics:
+Mean: 0.7064150953991326
+Variance: 3.407573480247991e-07
+Standard Deviation: 0.0005837442488151802
+
+ Quick Assets/Total Assets Cluster 44 Statistics:
+Mean: 0.6526708146413812
+Variance: 5.597770667118694e-07
+Standard Deviation: 0.0007481825089587897
+
+ Quick Assets/Total Assets Cluster 45 Statistics:
+Mean: 0.628904253207947
+Variance: 7.581330527688621e-07
+Standard Deviation: 0.0008707083626386403
+
+ Quick Assets/Total Assets Cluster 46 Statistics:
+Mean: 0.7009714657058365
+Variance: 1.357659008439663e-07
+Standard Deviation: 0.00036846424635772506
+
+ Quick Assets/Total Assets Cluster 47 Statistics:
+Mean: 0.6078637168456266
+Variance: 1.1511906256265779e-06
+Standard Deviation: 0.0010729355179257408
+
+ Quick Assets/Total Assets Cluster 48 Statistics:
+Mean: 0.6330384645587025
+Variance: 1.4792118882010817e-06
+Standard Deviation: 0.0012162285509726705
+
+ Quick Assets/Total Assets Cluster 49 Statistics:
+Mean: 0.7136879274297071
+Variance: 6.940271393456921e-07
+Standard Deviation: 0.00083308291264777
+
+ Quick Assets/Total Assets Cluster 50 Statistics:
+Mean: 0.6190836105342242
+Variance: 6.750017839816963e-07
+Standard Deviation: 0.0008215849219537176
+
+ Quick Assets/Total Assets Cluster 51 Statistics:
+Mean: 0.6146299257293316
+Variance: 2.294982591081366e-06
+Standard Deviation: 0.0015149199949440783
+
+ Quick Assets/Total Assets Cluster 52 Statistics:
+Mean: 0.7355970314557507
+Variance: 1.92621430256429e-06
+Standard Deviation: 0.0013878812278304976
+
+ Quick Assets/Total Assets Cluster 53 Statistics:
+Mean: 0.7225773243062895
+Variance: 4.507295460781541e-07
+Standard Deviation: 0.0006713639445771228
+
+ Quick Assets/Total Assets Cluster 54 Statistics:
+Mean: 0.6489880453061342
+Variance: 1.3221815432731384e-06
+Standard Deviation: 0.0011498615322173094
+
+ Quick Assets/Total Assets Cluster 55 Statistics:
+Mean: 0.6651727200587653
+Variance: 6.367066827100384e-06
+Standard Deviation: 0.0025233047432088704
+
+ Quick Assets/Total Assets Cluster 56 Statistics:
+Mean: 0.03449444622415193
+Variance: 2.583144418351858e-07
+Standard Deviation: 0.0005082464380939484
+
+ Quick Assets/Total Assets Cluster 57 Statistics:
+Mean: 0.6851503616201663
+Variance: 8.973038078956029e-07
+Standard Deviation: 0.0009472612141830799
+
+ Quick Assets/Total Assets Cluster 58 Statistics:
+Mean: 0.06589849381674738
+Variance: 1.425188355753763e-07
+Standard Deviation: 0.00037751666926822753
+
+ Quick Assets/Total Assets Cluster 59 Statistics:
+Mean: 0.6890142582355212
+Variance: 6.715541895701756e-07
+Standard Deviation: 0.0008194840996445115
+
+ Quick Assets/Total Assets Cluster 60 Statistics:
+Mean: 0.11746865286549754
+Variance: 3.210377077276893e-07
+Standard Deviation: 0.0005666018952736474
+
+ Quick Assets/Total Assets Cluster 61 Statistics:
+Mean: 0.7539832867890389
+Variance: 1.3778137496456487e-06
+Standard Deviation: 0.001173803113663296
+
+ Quick Assets/Total Assets Cluster 62 Statistics:
+Mean: 0.6555612716804027
+Variance: 3.141694850391536e-07
+Standard Deviation: 0.000560508238154582
+
+ Quick Assets/Total Assets Cluster 63 Statistics:
+Mean: 0.7808481298188505
+Variance: 8.452866979398413e-08
+Standard Deviation: 0.000290738146437622
+
+ Quick Assets/Total Assets Cluster 64 Statistics:
+Mean: 0.624043539062553
+Variance: 3.096028330706515e-06
+Standard Deviation: 0.0017595534463910197
+
+ Quick Assets/Total Assets Cluster 65 Statistics:
+Mean: 0.8740356745155211
+Variance: 1.1955043740809635e-07
+Standard Deviation: 0.00034576066492314646
+
+ Quick Assets/Total Assets Cluster 66 Statistics:
+Mean: 0.6756183711245782
+Variance: 1.1036937767816625e-06
+Standard Deviation: 0.0010505683113351853
+
+ Quick Assets/Total Assets Cluster 67 Statistics:
+Mean: 0.6368739110147534
+Variance: 5.833157195346449e-07
+Standard Deviation: 0.0007637510848009611
+
+ Quick Assets/Total Assets Cluster 68 Statistics:
+Mean: 0.7734573483948869
+Variance: 1.0198247390338612e-06
+Standard Deviation: 0.0010098637230012083
+
+ Quick Assets/Total Assets Cluster 69 Statistics:
+Mean: 0.8180683501676831
+Variance: 7.141795790607902e-08
+Standard Deviation: 0.00026724138509235247
+
+ Quick Assets/Total Assets Cluster 70 Statistics:
+Mean: 0.7590517373787741
+Variance: 2.414499634711347e-07
+Standard Deviation: 0.0004913755829008343
+
+ Quick Assets/Total Assets Cluster 71 Statistics:
+Mean: 0.8556341121916917
+Variance: 1.062877814988944e-07
+Standard Deviation: 0.0003260180692828151
+
+ Quick Assets/Total Assets Cluster 72 Statistics:
+Mean: 0.7287034030167728
+Variance: 1.2818003127140064e-06
+Standard Deviation: 0.001132166203661815
+
+ Quick Assets/Total Assets Cluster 73 Statistics:
+Mean: 0.679761116466773
+Variance: 3.069107545718836e-07
+Standard Deviation: 0.000553995265838873
+
+ Quick Assets/Total Assets Cluster 74 Statistics:
+Mean: 0.6928554850633228
+Variance: 2.8414666889221013e-07
+Standard Deviation: 0.0005330540956527866
+
+ Quick Assets/Total Assets Cluster 75 Statistics:
+Mean: 0.7434058685127525
+Variance: 8.491427496997528e-08
+Standard Deviation: 0.0002914005404421469
+
+ Quick Assets/Total Assets Cluster 76 Statistics:
+Mean: 0.7912879299431964
+Variance: 1.989163709049632e-07
+Standard Deviation: 0.0004460004158125452
+
+ Quick Assets/Total Assets Cluster 77 Statistics:
+Mean: 0.7446681304402694
+Variance: 9.233527210450177e-08
+Standard Deviation: 0.0003038671948475218
+
+ Quick Assets/Total Assets Cluster 78 Statistics:
+Mean: 0.7989909067383564
+Variance: 1.5640127643706852e-07
+Standard Deviation: 0.0003954760124673411
+
+ Quick Assets/Total Assets Cluster 79 Statistics:
+Mean: 0.6107582701248759
+Variance: 2.2117917095394704e-07
+Standard Deviation: 0.00047029689660250474
+
+ Quick Assets/Total Assets Cluster 80 Statistics:
+Mean: 0.6713734616439478
+Variance: 6.142985162386841e-07
+Standard Deviation: 0.0007837719797483731
+
+ Quick Assets/Total Assets Cluster 81 Statistics:
+Mean: 0.7489804464192324
+Variance: 1.368435904622876e-07
+Standard Deviation: 0.0003699237630408293
+
+ Quick Assets/Total Assets Cluster 82 Statistics:
+Mean: 0.7873185150238676
+Variance: 3.1069302021032176e-07
+Standard Deviation: 0.0005573984393683945
+
+ Quick Assets/Total Assets Cluster 83 Statistics:
+Mean: 0.6978045312817813
+Variance: 2.9902151507701624e-07
+Standard Deviation: 0.0005468285975303561
+
+ Quick Assets/Total Assets Cluster 84 Statistics:
+Mean: 0.7654041432127116
+Variance: 7.542921840166943e-08
+Standard Deviation: 0.0002746438027731
+
+ Quick Assets/Total Assets Cluster 85 Statistics:
+Mean: 0.7761458877124354
+Variance: 1.397196237877439e-07
+Standard Deviation: 0.0003737908824299275
+
+ Quick Assets/Total Assets Cluster 86 Statistics:
+Mean: 0.8141357464066369
+Variance: 6.229456316598092e-07
+Standard Deviation: 0.0007892690489686068
+
+ Quick Assets/Total Assets Cluster 87 Statistics:
+Mean: 0.8330419310500853
+Variance: 1.3890494587252977e-07
+Standard Deviation: 0.0003726995383315222
+
+ Quick Assets/Total Assets Cluster 88 Statistics:
+Mean: 0.7392312208398738
+Variance: 1.6036145167265958e-07
+Standard Deviation: 0.00040045155970811196
+
+ Quick Assets/Total Assets Cluster 89 Statistics:
+Mean: 0.7195716219543626
+Variance: 6.530620136136971e-07
+Standard Deviation: 0.0008081225238871251
+
+ Quick Assets/Total Assets Cluster 90 Statistics:
+Mean: 0.028027637180450853
+Variance: 2.6286126530854186e-07
+Standard Deviation: 0.000512699975920169
+
+ Quick Assets/Total Assets Cluster 91 Statistics:
+Mean: 0.08150169195743497
+Variance: 1.2873306267800753e-07
+Standard Deviation: 0.0003587939000011114
+
+ Quick Assets/Total Assets Cluster 92 Statistics:
+Mean: 0.7963946740242946
+Variance: 3.9629366946498216e-07
+Standard Deviation: 0.0006295186013653465
+
+ Quick Assets/Total Assets Cluster 93 Statistics:
+Mean: 0.7888588967743566
+Variance: 5.18759191872765e-08
+Standard Deviation: 0.00022776285734789266
+
+ Quick Assets/Total Assets Cluster 94 Statistics:
+Mean: 0.036919451903773014
+Variance: 2.5193759515511357e-07
+Standard Deviation: 0.0005019338553585657
+
+ Quick Assets/Total Assets Cluster 95 Statistics:
+Mean: 0.039302644080124884
+Variance: 7.098364778204298e-08
+Standard Deviation: 0.0002664275657323074
+
+ Quick Assets/Total Assets Cluster 96 Statistics:
+Mean: 0.02188427177564642
+Variance: 1.532485250105362e-07
+Standard Deviation: 0.0003914696987131139
+
+ Quick Assets/Total Assets Cluster 97 Statistics:
+Mean: 0.7251586297757678
+Variance: 2.1404666189135087e-07
+Standard Deviation: 0.000462651771736963
+
+ Quick Assets/Total Assets Cluster 98 Statistics:
+Mean: 0.7628639785575513
+Variance: 1.9637361752454786e-07
+Standard Deviation: 0.0004431406295122891
+
+ Quick Assets/Total Assets Cluster 99 Statistics:
+Mean: 0.7087570038592774
+Variance: 1.740511405441613e-07
+Standard Deviation: 0.000417194367824113
+
+ Quick Assets/Total Assets Cluster 100 Statistics:
+Mean: 0.7837148243808528
+Variance: 2.7312610034989835e-07
+Standard Deviation: 0.0005226146767455908
+
+ Quick Assets/Total Assets Cluster 101 Statistics:
+Mean: 0.7687055327318744
+Variance: 1.6114155567270825e-07
+Standard Deviation: 0.0004014244084167133
+
+ Quick Assets/Total Assets Cluster 102 Statistics:
+Mean: 0.6956895154970769
+Variance: 2.426127979171803e-07
+Standard Deviation: 0.0004925574057073757
+
+ Quick Assets/Total Assets Cluster 103 Statistics:
+Mean: 0.7106325235228323
+Variance: 1.6435370407007554e-07
+Standard Deviation: 0.00040540560438908035
+
+ Quick Assets/Total Assets Cluster 104 Statistics:
+Mean: 0.7668316428114128
+Variance: 1.7259540129527218e-07
+Standard Deviation: 0.0004154460269340317
+
+ Quick Assets/Total Assets Cluster 105 Statistics:
+Mean: 0.8671703891545464
+Variance: 1.7924801134486465e-07
+Standard Deviation: 0.0004233769140433435
+
+ Quick Assets/Total Assets Cluster 106 Statistics:
+Mean: 0.7790932880687395
+Variance: 8.366760459168654e-08
+Standard Deviation: 0.00028925352995544677
+
+ Quick Assets/Total Assets Cluster 107 Statistics:
+Mean: 0.7327861536528589
+Variance: 7.246521958192432e-09
+Standard Deviation: 8.51265056148344e-05
+
+ Quick Assets/Total Assets Cluster 108 Statistics:
+Mean: 0.8084434686677985
+Variance: 1.3359723420515054e-07
+Standard Deviation: 0.00036550955419133787
+
+ Current Assets/Total Assets Cluster -1 Statistics:
+Mean: 0.4087182483534393
+Variance: 0.15825840979532874
+Standard Deviation: 0.39781705568681786
+
+ Current Assets/Total Assets Cluster 0 Statistics:
+Mean: 0.18265003563128998
+Variance: 2.6329933383721435e-07
+Standard Deviation: 0.0005131270153063609
+
+ Current Assets/Total Assets Cluster 1 Statistics:
+Mean: 0.6054714302667323
+Variance: 3.551629875140336e-05
+Standard Deviation: 0.005959555247785136
+
+ Current Assets/Total Assets Cluster 2 Statistics:
+Mean: 0.22734314667472294
+Variance: 5.506299647456369e-06
+Standard Deviation: 0.002346550584891868
+
+ Current Assets/Total Assets Cluster 3 Statistics:
+Mean: 0.351271234721918
+Variance: 2.2779273408845304e-05
+Standard Deviation: 0.0047727637076274065
+
+ Current Assets/Total Assets Cluster 4 Statistics:
+Mean: 0.214717288029129
+Variance: 4.642267147392264e-07
+Standard Deviation: 0.0006813418486627887
+
+ Current Assets/Total Assets Cluster 5 Statistics:
+Mean: 0.4182424617841569
+Variance: 0.00043783845938178204
+Standard Deviation: 0.020924589825891023
+
+ Current Assets/Total Assets Cluster 6 Statistics:
+Mean: 0.5742465586606481
+Variance: 3.767407932691606e-05
+Standard Deviation: 0.006137921417460153
+
+ Current Assets/Total Assets Cluster 7 Statistics:
+Mean: 0.1016373928251814
+Variance: 3.1750942661252475e-08
+Standard Deviation: 0.00017818794196368192
+
+ Current Assets/Total Assets Cluster 8 Statistics:
+Mean: 0.21848186984876616
+Variance: 7.464644130934964e-07
+Standard Deviation: 0.0008639817203468464
+
+ Current Assets/Total Assets Cluster 9 Statistics:
+Mean: 0.33682014419750556
+Variance: 8.451910715878666e-06
+Standard Deviation: 0.002907217005295385
+
+ Current Assets/Total Assets Cluster 10 Statistics:
+Mean: 0.3703986606423189
+Variance: 3.707023757811406e-05
+Standard Deviation: 0.006088533286277908
+
+ Current Assets/Total Assets Cluster 11 Statistics:
+Mean: 0.2748385655134966
+Variance: 1.2660672965432233e-05
+Standard Deviation: 0.00355818394204575
+
+ Current Assets/Total Assets Cluster 12 Statistics:
+Mean: 0.3212164442710885
+Variance: 3.599709798846381e-05
+Standard Deviation: 0.005999758160831469
+
+ Current Assets/Total Assets Cluster 13 Statistics:
+Mean: 0.17631182475186466
+Variance: 2.4438208571408495e-07
+Standard Deviation: 0.0004943501650794556
+
+ Current Assets/Total Assets Cluster 14 Statistics:
+Mean: 0.3001896017058943
+Variance: 8.732197949007645e-06
+Standard Deviation: 0.0029550292636465795
+
+ Current Assets/Total Assets Cluster 15 Statistics:
+Mean: 0.4614906977073815
+Variance: 1.5106142656517225e-05
+Standard Deviation: 0.0038866621484915853
+
+ Current Assets/Total Assets Cluster 16 Statistics:
+Mean: 0.19643957344645235
+Variance: 3.051144108064431e-07
+Standard Deviation: 0.000552371623824435
+
+ Current Assets/Total Assets Cluster 17 Statistics:
+Mean: 0.480539224337005
+Variance: 4.6751908896383855e-05
+Standard Deviation: 0.006837536756492344
+
+ Current Assets/Total Assets Cluster 18 Statistics:
+Mean: 0.17217238632439824
+Variance: 1.5388514714070868e-06
+Standard Deviation: 0.0012405045229289117
+
+ Current Assets/Total Assets Cluster 19 Statistics:
+Mean: 0.6256511068729409
+Variance: 6.325716792460865e-06
+Standard Deviation: 0.002515097769960616
+
+ Current Assets/Total Assets Cluster 20 Statistics:
+Mean: 0.283639637640614
+Variance: 9.821969069313624e-07
+Standard Deviation: 0.0009910584780583648
+
+ Current Assets/Total Assets Cluster 21 Statistics:
+Mean: 0.12146374536002184
+Variance: 1.3794653757336137e-07
+Standard Deviation: 0.00037141154744213507
+
+ Current Assets/Total Assets Cluster 22 Statistics:
+Mean: 0.19893931768874587
+Variance: 2.1130306071454561e-07
+Standard Deviation: 0.00045967712659490207
+
+ Current Assets/Total Assets Cluster 23 Statistics:
+Mean: 0.2596397443482871
+Variance: 1.832050942380575e-05
+Standard Deviation: 0.00428024642092085
+
+ Current Assets/Total Assets Cluster 24 Statistics:
+Mean: 0.590170662648413
+Variance: 6.324476583598549e-06
+Standard Deviation: 0.002514851205061355
+
+ Current Assets/Total Assets Cluster 25 Statistics:
+Mean: 0.30716468437640426
+Variance: 8.431218168095207e-07
+Standard Deviation: 0.0009182166502571823
+
+ Current Assets/Total Assets Cluster 26 Statistics:
+Mean: 0.7050181360433572
+Variance: 5.7763151763160314e-06
+Standard Deviation: 0.0024033965915587112
+
+ Current Assets/Total Assets Cluster 27 Statistics:
+Mean: 0.12437313512531172
+Variance: 2.1469412506853363e-07
+Standard Deviation: 0.0004633509739587623
+
+ Current Assets/Total Assets Cluster 28 Statistics:
+Mean: 0.6623106177960068
+Variance: 4.5349093295168915e-06
+Standard Deviation: 0.002129532655189136
+
+ Current Assets/Total Assets Cluster 29 Statistics:
+Mean: 0.5012420788829421
+Variance: 2.2948730232975106e-05
+Standard Deviation: 0.00479048329847575
+
+ Current Assets/Total Assets Cluster 30 Statistics:
+Mean: 0.119310840608644
+Variance: 1.6879804850565044e-07
+Standard Deviation: 0.00041085039674515397
+
+ Current Assets/Total Assets Cluster 31 Statistics:
+Mean: 0.6407812701187795
+Variance: 3.447085906258415e-05
+Standard Deviation: 0.005871188896857616
+
+ Current Assets/Total Assets Cluster 32 Statistics:
+Mean: 0.2905384581122576
+Variance: 6.634661961376862e-06
+Standard Deviation: 0.0025757837567188867
+
+ Current Assets/Total Assets Cluster 33 Statistics:
+Mean: 0.24112480432731745
+Variance: 1.3535335342878427e-07
+Standard Deviation: 0.0003679040002891845
+
+ Current Assets/Total Assets Cluster 34 Statistics:
+Mean: 0.24730542810139344
+Variance: 4.20273534367151e-06
+Standard Deviation: 0.0020500574000918877
+
+ Current Assets/Total Assets Cluster 35 Statistics:
+Mean: 0.7277209830385695
+Variance: 8.890257052842609e-06
+Standard Deviation: 0.0029816534092416925
+
+ Current Assets/Total Assets Cluster 36 Statistics:
+Mean: 0.1944251029777094
+Variance: 1.058339184724081e-07
+Standard Deviation: 0.0003253212542586299
+
+ Current Assets/Total Assets Cluster 37 Statistics:
+Mean: 0.5114315204405615
+Variance: 8.853324487013486e-07
+Standard Deviation: 0.0009409210640119333
+
+ Current Assets/Total Assets Cluster 38 Statistics:
+Mean: 0.20173305733603078
+Variance: 2.5195585027636665e-07
+Standard Deviation: 0.0005019520398169198
+
+ Current Assets/Total Assets Cluster 39 Statistics:
+Mean: 0.16549977015415207
+Variance: 1.3457963355087316e-06
+Standard Deviation: 0.001160084624287699
+
+ Current Assets/Total Assets Cluster 40 Statistics:
+Mean: 0.1856393023690668
+Variance: 9.57829698655522e-07
+Standard Deviation: 0.000978687743182432
+
+ Current Assets/Total Assets Cluster 41 Statistics:
+Mean: 0.6555822751213214
+Variance: 2.4833044135242073e-06
+Standard Deviation: 0.0015758503778989321
+
+ Current Assets/Total Assets Cluster 42 Statistics:
+Mean: 0.5329148709848991
+Variance: 0.00012494850312088642
+Standard Deviation: 0.011178036639807834
+
+ Current Assets/Total Assets Cluster 43 Statistics:
+Mean: 0.6687370900584716
+Variance: 1.2371390999644025e-06
+Standard Deviation: 0.0011122675487329487
+
+ Current Assets/Total Assets Cluster 44 Statistics:
+Mean: 0.23682951985016532
+Variance: 3.777458661711884e-06
+Standard Deviation: 0.001943568537950716
+
+ Current Assets/Total Assets Cluster 45 Statistics:
+Mean: 0.899796246766671
+Variance: 1.8079180925795703e-06
+Standard Deviation: 0.0013445884472877083
+
+ Current Assets/Total Assets Cluster 46 Statistics:
+Mean: 0.6909379826522326
+Variance: 1.4884578039912626e-05
+Standard Deviation: 0.003858053659542934
+
+ Current Assets/Total Assets Cluster 47 Statistics:
+Mean: 0.5588084333445382
+Variance: 8.579483359506541e-06
+Standard Deviation: 0.0029290755127696078
+
+ Current Assets/Total Assets Cluster 48 Statistics:
+Mean: 0.20378755211129387
+Variance: 1.2823329367585488e-07
+Standard Deviation: 0.00035809676579921085
+
+ Current Assets/Total Assets Cluster 49 Statistics:
+Mean: 0.17968890238315738
+Variance: 1.8222367090328732e-07
+Standard Deviation: 0.00042687664600360523
+
+ Current Assets/Total Assets Cluster 50 Statistics:
+Mean: 0.9221601623507529
+Variance: 6.50731131382767e-08
+Standard Deviation: 0.00025509432204240986
+
+ Current Assets/Total Assets Cluster 51 Statistics:
+Mean: 0.20877753235209112
+Variance: 5.9518366212945726e-08
+Standard Deviation: 0.00024396386251440135
+
+ Current Assets/Total Assets Cluster 52 Statistics:
+Mean: 0.21068758300320012
+Variance: 6.078091665952404e-07
+Standard Deviation: 0.0007796211686423351
+
+ Current Assets/Total Assets Cluster 53 Statistics:
+Mean: 0.24256215546631732
+Variance: 1.8987023050552714e-08
+Standard Deviation: 0.00013779340713747053
+
+ Current Assets/Total Assets Cluster 54 Statistics:
+Mean: 0.2212617912317028
+Variance: 1.6276513336264498e-07
+Standard Deviation: 0.00040344161084678037
+
+ Current Assets/Total Assets Cluster 55 Statistics:
+Mean: 0.16853919849664967
+Variance: 9.747319581837827e-08
+Standard Deviation: 0.0003122069759284348
+
+ Current Assets/Total Assets Cluster 56 Statistics:
+Mean: 0.6722157747801613
+Variance: 5.214033042397156e-07
+Standard Deviation: 0.0007220826159378965
+
+ Current Assets/Total Assets Cluster 57 Statistics:
+Mean: 0.742965750835959
+Variance: 2.240578214900347e-06
+Standard Deviation: 0.0014968561102859377
+
+ Current Assets/Total Assets Cluster 58 Statistics:
+Mean: 0.787754696917853
+Variance: 4.32180294414411e-06
+Standard Deviation: 0.0020788946447918206
+
+ Current Assets/Total Assets Cluster 59 Statistics:
+Mean: 0.3098769512759242
+Variance: 1.0349730498642197e-07
+Standard Deviation: 0.0003217099702937756
+
+ Current Assets/Total Assets Cluster 60 Statistics:
+Mean: 0.19233857677113775
+Variance: 3.1890149738266186e-07
+Standard Deviation: 0.000564713641930724
+
+ Current Assets/Total Assets Cluster 61 Statistics:
+Mean: 0.1559742077192148
+Variance: 2.4041996080126516e-07
+Standard Deviation: 0.0004903263819143991
+
+ Current Assets/Total Assets Cluster 62 Statistics:
+Mean: 0.8086152584306318
+Variance: 1.972463679115764e-06
+Standard Deviation: 0.0014044442598820943
+
+ Current Assets/Total Assets Cluster 63 Statistics:
+Mean: 0.14948031311654983
+Variance: 7.948287465885006e-08
+Standard Deviation: 0.00028192707329884097
+
+ Current Assets/Total Assets Cluster 64 Statistics:
+Mean: 0.15396960678299518
+Variance: 2.7969805577508447e-07
+Standard Deviation: 0.000528864874779073
+
+ Current Assets/Total Assets Cluster 65 Statistics:
+Mean: 0.6188116483611433
+Variance: 1.316590144529432e-06
+Standard Deviation: 0.00114742762060595
+
+ Current Assets/Total Assets Cluster 66 Statistics:
+Mean: 0.17826659560934713
+Variance: 1.5567790386739138e-07
+Standard Deviation: 0.0003945603931813118
+
+ Current Assets/Total Assets Cluster 67 Statistics:
+Mean: 0.8304344792660988
+Variance: 5.2329791208367844e-08
+Standard Deviation: 0.00022875705717718929
+
+ Current Assets/Total Assets Cluster 68 Statistics:
+Mean: 0.7994827789770018
+Variance: 1.2086086334067827e-05
+Standard Deviation: 0.003476504902062965
+
+ Current Assets/Total Assets Cluster 69 Statistics:
+Mean: 0.771952498486261
+Variance: 5.938417988443017e-07
+Standard Deviation: 0.0007706113150248325
+
+ Current Assets/Total Assets Cluster 70 Statistics:
+Mean: 0.7194671077668866
+Variance: 2.5728667122673e-06
+Standard Deviation: 0.0016040158079854761
+
+ Current Assets/Total Assets Cluster 71 Statistics:
+Mean: 0.8435849668268919
+Variance: 4.775840594916172e-07
+Standard Deviation: 0.0006910745686911198
+
+ Current Assets/Total Assets Cluster 72 Statistics:
+Mean: 0.6781116429027892
+Variance: 5.993277980811468e-06
+Standard Deviation: 0.002448117231835818
+
+ Current Assets/Total Assets Cluster 73 Statistics:
+Mean: 0.7114470874361152
+Variance: 1.7001513689182939e-06
+Standard Deviation: 0.0013038985270788113
+
+ Current Assets/Total Assets Cluster 74 Statistics:
+Mean: 0.7783231828834256
+Variance: 7.7544761184881e-06
+Standard Deviation: 0.002784685999980626
+
+ Current Assets/Total Assets Cluster 75 Statistics:
+Mean: 0.7383415075064608
+Variance: 1.0338460139820133e-06
+Standard Deviation: 0.0010167821861057625
+
+ Current Assets/Total Assets Cluster 76 Statistics:
+Mean: 0.7537932775770334
+Variance: 1.157029219551762e-05
+Standard Deviation: 0.003401513221423315
+
+ Current Assets/Total Assets Cluster 77 Statistics:
+Mean: 0.8512545663191269
+Variance: 1.6779561084271016e-07
+Standard Deviation: 0.0004096286255167114
+
+ Current Assets/Total Assets Cluster 78 Statistics:
+Mean: 0.8858802624287442
+Variance: 1.3271330214853444e-07
+Standard Deviation: 0.0003642983696759216
+
+ Current Assets/Total Assets Cluster 79 Statistics:
+Mean: 0.8405601384586499
+Variance: 6.672001412884055e-07
+Standard Deviation: 0.0008168232007530182
+
+ Current Assets/Total Assets Cluster 80 Statistics:
+Mean: 0.8482047500058051
+Variance: 1.037409270465506e-06
+Standard Deviation: 0.0010185329010225963
+
+ Current Assets/Total Assets Cluster 81 Statistics:
+Mean: 0.6516437858568196
+Variance: 6.296218422181242e-08
+Standard Deviation: 0.000250922665819197
+
+ Current Assets/Total Assets Cluster 82 Statistics:
+Mean: 0.7670731504866627
+Variance: 3.997360032685069e-06
+Standard Deviation: 0.001999339899238013
+
+ Current Assets/Total Assets Cluster 83 Statistics:
+Mean: 0.8634206952412949
+Variance: 9.628028632981877e-08
+Standard Deviation: 0.00031029064815076
+
+ Current Assets/Total Assets Cluster 84 Statistics:
+Mean: 0.212710088573051
+Variance: 7.865331817910938e-08
+Standard Deviation: 0.00028045198908032256
+
+ Current Assets/Total Assets Cluster 85 Statistics:
+Mean: 0.8276818208619307
+Variance: 1.1586090680935149e-06
+Standard Deviation: 0.0010763870438153344
+
+ Current Assets/Total Assets Cluster 86 Statistics:
+Mean: 0.20022264183008498
+Variance: 8.700045661479561e-08
+Standard Deviation: 0.0002949583981086072
+
+ Current Assets/Total Assets Cluster 87 Statistics:
+Mean: 0.7465554212220693
+Variance: 3.297695855194651e-07
+Standard Deviation: 0.0005742556795709252
+
+ Current Assets/Total Assets Cluster 88 Statistics:
+Mean: 0.11253836411531733
+Variance: 1.508649363890872e-07
+Standard Deviation: 0.00038841335763473324
+
+ Current Assets/Total Assets Cluster 89 Statistics:
+Mean: 0.8332041659456539
+Variance: 1.2508495190302468e-06
+Standard Deviation: 0.0011184138406825296
+
+ Current Assets/Total Assets Cluster 90 Statistics:
+Mean: 0.7620635064565143
+Variance: 2.5204263418050727e-07
+Standard Deviation: 0.0005020384787847514
+
+ Current Assets/Total Assets Cluster 91 Statistics:
+Mean: 0.8573886744810933
+Variance: 4.4320585659922114e-07
+Standard Deviation: 0.0006657370776809874
+
+ Current Assets/Total Assets Cluster 92 Statistics:
+Mean: 0.23196429167598476
+Variance: 1.0093248770083688e-08
+Standard Deviation: 0.00010046516197211692
+
+ Current Assets/Total Assets Cluster 93 Statistics:
+Mean: 0.8718351656618896
+Variance: 8.815348714044753e-07
+Standard Deviation: 0.0009389008847607266
+
+ Current Assets/Total Assets Cluster 94 Statistics:
+Mean: 0.8175274616649187
+Variance: 1.7997515947365605e-07
+Standard Deviation: 0.000424234792860812
+
+ Current Assets/Total Assets Cluster 95 Statistics:
+Mean: 0.8611202994123346
+Variance: 2.3273367741694682e-07
+Standard Deviation: 0.0004824247893889231
+
+ Current Assets/Total Assets Cluster 96 Statistics:
+Mean: 0.947422508140047
+Variance: 1.0138512094271528e-08
+Standard Deviation: 0.00010069017873790635
+
+ Current Assets/Total Assets Cluster 97 Statistics:
+Mean: 0.8203461547549161
+Variance: 1.0477392892703844e-06
+Standard Deviation: 0.0010235913683059195
+
+ Current Assets/Total Assets Cluster 98 Statistics:
+Mean: 0.9048352255911097
+Variance: 1.9267319440460835e-07
+Standard Deviation: 0.0004389455483367024
+
+ Current Assets/Total Assets Cluster 99 Statistics:
+Mean: 0.85501499916786
+Variance: 2.402608872976205e-07
+Standard Deviation: 0.0004901641432190042
+
+ Current Assets/Total Assets Cluster 100 Statistics:
+Mean: 0.9520369784062722
+Variance: 5.551870118006974e-07
+Standard Deviation: 0.000745108724818531
+
+ Current Assets/Total Assets Cluster 101 Statistics:
+Mean: 0.8236251115974322
+Variance: 3.918991307164291e-07
+Standard Deviation: 0.0006260184747405057
+
+ Current Assets/Total Assets Cluster 102 Statistics:
+Mean: 0.8787235592021374
+Variance: 1.4206504198448147e-07
+Standard Deviation: 0.00037691516550078145
+
+ Current Assets/Total Assets Cluster 103 Statistics:
+Mean: 0.8920735396301274
+Variance: 1.0661252750011182e-07
+Standard Deviation: 0.0003265157385182402
+
+ Current Assets/Total Assets Cluster 104 Statistics:
+Mean: 0.8131564201526696
+Variance: 7.959559186023952e-07
+Standard Deviation: 0.0008921636164977785
+
+ Current Assets/Total Assets Cluster 105 Statistics:
+Mean: 0.9431787618372023
+Variance: 1.810797794701408e-07
+Standard Deviation: 0.0004255346983151207
+
+ Current Assets/Total Assets Cluster 106 Statistics:
+Mean: 0.6829030271265408
+Variance: 1.3541643782792857e-07
+Standard Deviation: 0.0003679897251662451
+
+ Current Assets/Total Assets Cluster 107 Statistics:
+Mean: 0.7337716556505736
+Variance: 1.7168620116603408e-07
+Standard Deviation: 0.0004143503362687595
+
+ Current Assets/Total Assets Cluster 108 Statistics:
+Mean: 0.9375047547766796
+Variance: 1.493830454127193e-07
+Standard Deviation: 0.00038650102899309246
+
+ Current Assets/Total Assets Cluster 109 Statistics:
+Mean: 0.9183716461327431
+Variance: 4.126874555276513e-07
+Standard Deviation: 0.0006424075462879085
+
+ Current Assets/Total Assets Cluster 110 Statistics:
+Mean: 0.9270608798855139
+Variance: 1.5426502323841816e-07
+Standard Deviation: 0.0003927658631276631
+
+ Current Assets/Total Assets Cluster 111 Statistics:
+Mean: 0.8938509966405522
+Variance: 8.954836797414219e-08
+Standard Deviation: 0.0002992463332676646
+
+ Current Assets/Total Assets Cluster 112 Statistics:
+Mean: 0.9577096477771176
+Variance: 1.3555906509017208e-07
+Standard Deviation: 0.0003681834666170822
+
+ Current Assets/Total Assets Cluster 113 Statistics:
+Mean: 0.6985396221260116
+Variance: 4.4570786005318896e-07
+Standard Deviation: 0.0006676135559237761
+
+ Current Assets/Total Assets Cluster 114 Statistics:
+Mean: 0.7922472632772646
+Variance: 1.8412370664789503e-08
+Standard Deviation: 0.0001356921908762236
+
+ Current Assets/Total Assets Cluster 115 Statistics:
+Mean: 0.853060324922702
+Variance: 1.551179309825657e-07
+Standard Deviation: 0.00039385013772063823
+
+ Current Assets/Total Assets Cluster 116 Statistics:
+Mean: 0.9356584957916695
+Variance: 2.542381409335035e-07
+Standard Deviation: 0.0005042203297503021
+
+ Current Assets/Total Assets Cluster 117 Statistics:
+Mean: 0.8252657007873578
+Variance: 4.4900448392525665e-08
+Standard Deviation: 0.00021189725904911008
+
+ Current Assets/Total Assets Cluster 118 Statistics:
+Mean: 0.7602919000274974
+Variance: 6.112096298704007e-08
+Standard Deviation: 0.0002472265418336795
+
+ Current Assets/Total Assets Cluster 119 Statistics:
+Mean: 0.8361279995430048
+Variance: 1.2469339389108966e-07
+Standard Deviation: 0.0003531195178563338
+
+ Current Assets/Total Assets Cluster 120 Statistics:
+Mean: 0.9102064515684841
+Variance: 2.8836472591578615e-07
+Standard Deviation: 0.0005369960203910138
+
+ Current Assets/Total Assets Cluster 121 Statistics:
+Mean: 0.7355758044714459
+Variance: 1.4140030043369234e-07
+Standard Deviation: 0.0003760323130180335
+
+ Current Assets/Total Assets Cluster 122 Statistics:
+Mean: 0.8666371800413838
+Variance: 3.384992191956892e-07
+Standard Deviation: 0.000581806857295176
+
+ Current Assets/Total Assets Cluster 123 Statistics:
+Mean: 0.8376595652373086
+Variance: 1.0773457610077765e-07
+Standard Deviation: 0.0003282294564794233
+
+ Current Assets/Total Assets Cluster 124 Statistics:
+Mean: 0.9135814991323654
+Variance: 1.8038470125391105e-07
+Standard Deviation: 0.0004247172015046142
+
+ Current Assets/Total Assets Cluster 125 Statistics:
+Mean: 0.8761732136626459
+Variance: 4.7366559394421413e-07
+Standard Deviation: 0.0006882336768454549
+
+ Current Assets/Total Assets Cluster 126 Statistics:
+Mean: 0.9803024905540291
+Variance: 8.383190964074087e-08
+Standard Deviation: 0.00028953740628930984
+
+ Current Assets/Total Assets Cluster 127 Statistics:
+Mean: 0.9326071177670743
+Variance: 9.783699973245569e-08
+Standard Deviation: 0.00031278906587739875
+
+ Current Assets/Total Assets Cluster 128 Statistics:
+Mean: 0.8837682321352268
+Variance: 2.985889284117175e-07
+Standard Deviation: 0.0005464329130018776
+
+ Current Assets/Total Assets Cluster 129 Statistics:
+Mean: 0.8690314277730975
+Variance: 2.3684236108968823e-07
+Standard Deviation: 0.000486664526228991
+
+ Current Assets/Total Assets Cluster 130 Statistics:
+Mean: 0.7143133971392244
+Variance: 8.017884848737086e-08
+Standard Deviation: 0.00028315869841375325
+
+ Current Assets/Total Assets Cluster 131 Statistics:
+Mean: 0.8159324066447259
+Variance: 1.6955149233312974e-07
+Standard Deviation: 0.00041176630791400326
+
+ Current Assets/Total Assets Cluster 132 Statistics:
+Mean: 0.9031033237382223
+Variance: 3.183709081527132e-07
+Standard Deviation: 0.0005642436602680736
+
+ Current Assets/Total Assets Cluster 133 Statistics:
+Mean: 0.8596448566406454
+Variance: 7.277610594741927e-08
+Standard Deviation: 0.0002697704690054478
+
+ Current Assets/Total Assets Cluster 134 Statistics:
+Mean: 0.8389170106206418
+Variance: 6.64608193985729e-09
+Standard Deviation: 8.152350544387362e-05
+
+ Current Assets/Total Assets Cluster 135 Statistics:
+Mean: 0.9235609660498423
+Variance: 4.8192760819763347e-08
+Standard Deviation: 0.00021952849660069953
+
+ Current Assets/Total Assets Cluster 136 Statistics:
+Mean: 0.8956139689241922
+Variance: 3.992891417270677e-07
+Standard Deviation: 0.0006318932993212285
+
+ Current Assets/Total Assets Cluster 137 Statistics:
+Mean: 0.8800812875601876
+Variance: 7.087194005349755e-08
+Standard Deviation: 0.0002662178432289946
+
+ Current Assets/Total Assets Cluster 138 Statistics:
+Mean: 0.8816553236495848
+Variance: 1.4278072668517781e-07
+Standard Deviation: 0.00037786337039355614
+
+ Current Assets/Total Assets Cluster 139 Statistics:
+Mean: 0.8646764060511017
+Variance: 1.7810400978389778e-08
+Standard Deviation: 0.00013345561426328148
+
+ Current Assets/Total Assets Cluster 140 Statistics:
+Mean: 0.9649262561476512
+Variance: 7.301917055277229e-08
+Standard Deviation: 0.0002702205960928447
+
+ Current Assets/Total Assets Cluster 141 Statistics:
+Mean: 0.9557622718540622
+Variance: 1.846600251784586e-08
+Standard Deviation: 0.00013588967038684677
+
+ Current Assets/Total Assets Cluster 142 Statistics:
+Mean: 0.9697816180379115
+Variance: 2.3485102738194477e-07
+Standard Deviation: 0.00048461430785929623
+
+ Current Assets/Total Assets Cluster 143 Statistics:
+Mean: 0.7156085412737515
+Variance: 7.484909842680583e-08
+Standard Deviation: 0.00027358563271269535
+
+ Current Assets/Total Assets Cluster 144 Statistics:
+Mean: 0.136290458668161
+Variance: 1.2306786406376174e-07
+Standard Deviation: 0.00035081029640499686
+
+ Current Assets/Total Assets Cluster 145 Statistics:
+Mean: 0.1612445840042414
+Variance: 1.3312116536270026e-07
+Standard Deviation: 0.0003648577330449504
+
+ Current Assets/Total Assets Cluster 146 Statistics:
+Mean: 0.9158707098627156
+Variance: 6.273074802789098e-08
+Standard Deviation: 0.0002504610708830635
+
+ Current Assets/Total Assets Cluster 147 Statistics:
+Mean: 0.1087632058547788
+Variance: 7.713952390902269e-08
+Standard Deviation: 0.0002777400293602323
+
+ Current Assets/Total Assets Cluster 148 Statistics:
+Mean: 0.20645255107438598
+Variance: 1.3132881063082524e-07
+Standard Deviation: 0.00036239317133580933
+
+ Current Assets/Total Assets Cluster 149 Statistics:
+Mean: 0.25105452868279077
+Variance: 1.8384994715229552e-08
+Standard Deviation: 0.00013559127816799115
+
+ Current Assets/Total Assets Cluster 150 Statistics:
+Mean: 0.03777922109926386
+Variance: 1.1311957726955587e-07
+Standard Deviation: 0.00033633253971264193
+
+ Current Assets/Total Assets Cluster 151 Statistics:
+Mean: 0.9626632479369622
+Variance: 1.8024799804375603e-07
+Standard Deviation: 0.0004245562366091871
+
+ Current Assets/Total Assets Cluster 152 Statistics:
+Mean: 0.887284558545199
+Variance: 9.357101248841071e-08
+Standard Deviation: 0.00030589379282425905
+
+ Current Assets/Total Assets Cluster 153 Statistics:
+Mean: 0.9085899730328288
+Variance: 2.7451825073029398e-08
+Standard Deviation: 0.0001656859229778722
+
+ Current Assets/Total Assets Cluster 154 Statistics:
+Mean: 0.9545291079006548
+Variance: 1.1609308068294179e-07
+Standard Deviation: 0.0003407243470651045
+
+ Current Assets/Total Assets Cluster 155 Statistics:
+Mean: 0.18109542267294182
+Variance: 3.118404148082501e-08
+Standard Deviation: 0.0001765900378866968
+
+ Current Assets/Total Assets Cluster 156 Statistics:
+Mean: 0.8454127377604376
+Variance: 8.899844642624753e-09
+Standard Deviation: 9.433898792453072e-05
+
+ Current Assets/Total Assets Cluster 157 Statistics:
+Mean: 0.18913759934441118
+Variance: 1.4413277078521698e-07
+Standard Deviation: 0.0003796482197840746
+
