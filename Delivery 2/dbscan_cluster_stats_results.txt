@@ -1,0 +1,807 @@
+ Quick Assets/Total Assets Cluster -1 Statistics:
+Mean: 0.6609343278665782
+
+ Quick Assets/Total Assets Cluster 0 Statistics:
+Mean: 0.16900357195686455
+
+ Quick Assets/Total Assets Cluster 1 Statistics:
+Mean: 0.12697339927295798
+
+ Quick Assets/Total Assets Cluster 2 Statistics:
+Mean: 0.33735928593399017
+
+ Quick Assets/Total Assets Cluster 3 Statistics:
+Mean: 0.1611618537362619
+
+ Quick Assets/Total Assets Cluster 4 Statistics:
+Mean: 0.26471460563136906
+
+ Quick Assets/Total Assets Cluster 5 Statistics:
+Mean: 0.07994819508067114
+
+ Quick Assets/Total Assets Cluster 6 Statistics:
+Mean: 0.35751233546658046
+
+ Quick Assets/Total Assets Cluster 7 Statistics:
+Mean: 0.37434385403020626
+
+ Quick Assets/Total Assets Cluster 8 Statistics:
+Mean: 0.39444481001205534
+
+ Quick Assets/Total Assets Cluster 9 Statistics:
+Mean: 0.13862397213569844
+
+ Quick Assets/Total Assets Cluster 10 Statistics:
+Mean: 0.21894783131523293
+
+ Quick Assets/Total Assets Cluster 11 Statistics:
+Mean: 0.19307808606569812
+
+ Quick Assets/Total Assets Cluster 12 Statistics:
+Mean: 0.09636443939233164
+
+ Quick Assets/Total Assets Cluster 13 Statistics:
+Mean: 0.4658069525475483
+
+ Quick Assets/Total Assets Cluster 14 Statistics:
+Mean: 0.1015138319635373
+
+ Quick Assets/Total Assets Cluster 15 Statistics:
+Mean: 0.3132616652191009
+
+ Quick Assets/Total Assets Cluster 16 Statistics:
+Mean: 0.1058754146312943
+
+ Quick Assets/Total Assets Cluster 17 Statistics:
+Mean: 0.22613983159265494
+
+ Quick Assets/Total Assets Cluster 18 Statistics:
+Mean: 0.062387461451154556
+
+ Quick Assets/Total Assets Cluster 19 Statistics:
+Mean: 0.1144477057095645
+
+ Quick Assets/Total Assets Cluster 20 Statistics:
+Mean: 0.5552243844760192
+
+ Quick Assets/Total Assets Cluster 21 Statistics:
+Mean: 0.08685806973144129
+
+ Quick Assets/Total Assets Cluster 22 Statistics:
+Mean: 0.5671067428661658
+
+ Quick Assets/Total Assets Cluster 23 Statistics:
+Mean: 0.06841186371716522
+
+ Quick Assets/Total Assets Cluster 24 Statistics:
+Mean: 0.09182210564952394
+
+ Quick Assets/Total Assets Cluster 25 Statistics:
+Mean: 0.12182566124080255
+
+ Quick Assets/Total Assets Cluster 26 Statistics:
+Mean: 0.6425962523044128
+
+ Quick Assets/Total Assets Cluster 27 Statistics:
+Mean: 0.07652561427041364
+
+ Quick Assets/Total Assets Cluster 28 Statistics:
+Mean: 0.1336017773551711
+
+ Quick Assets/Total Assets Cluster 29 Statistics:
+Mean: 0.14737078817940508
+
+ Quick Assets/Total Assets Cluster 30 Statistics:
+Mean: 0.5804964472755691
+
+ Quick Assets/Total Assets Cluster 31 Statistics:
+Mean: 0.11073393332874427
+
+ Quick Assets/Total Assets Cluster 32 Statistics:
+Mean: 0.05781818602963078
+
+ Quick Assets/Total Assets Cluster 33 Statistics:
+Mean: 0.05029369799237038
+
+ Quick Assets/Total Assets Cluster 34 Statistics:
+Mean: 0.07075397215355284
+
+ Quick Assets/Total Assets Cluster 35 Statistics:
+Mean: 0.05260810855024952
+
+ Quick Assets/Total Assets Cluster 36 Statistics:
+Mean: 0.047453262805378475
+
+ Quick Assets/Total Assets Cluster 37 Statistics:
+Mean: 0.040866354569986885
+
+ Quick Assets/Total Assets Cluster 38 Statistics:
+Mean: 0.04493968697640234
+
+ Quick Assets/Total Assets Cluster 39 Statistics:
+Mean: 0.5372005141652094
+
+ Quick Assets/Total Assets Cluster 40 Statistics:
+Mean: 0.5994066384304154
+
+ Quick Assets/Total Assets Cluster 41 Statistics:
+Mean: 0.6820115100560902
+
+ Quick Assets/Total Assets Cluster 42 Statistics:
+Mean: 0.6581807635382988
+
+ Quick Assets/Total Assets Cluster 43 Statistics:
+Mean: 0.7064150953991326
+
+ Quick Assets/Total Assets Cluster 44 Statistics:
+Mean: 0.6526708146413812
+
+ Quick Assets/Total Assets Cluster 45 Statistics:
+Mean: 0.628904253207947
+
+ Quick Assets/Total Assets Cluster 46 Statistics:
+Mean: 0.7009714657058365
+
+ Quick Assets/Total Assets Cluster 47 Statistics:
+Mean: 0.6078637168456266
+
+ Quick Assets/Total Assets Cluster 48 Statistics:
+Mean: 0.6330384645587025
+
+ Quick Assets/Total Assets Cluster 49 Statistics:
+Mean: 0.7136879274297071
+
+ Quick Assets/Total Assets Cluster 50 Statistics:
+Mean: 0.6190836105342242
+
+ Quick Assets/Total Assets Cluster 51 Statistics:
+Mean: 0.6146299257293316
+
+ Quick Assets/Total Assets Cluster 52 Statistics:
+Mean: 0.7355970314557507
+
+ Quick Assets/Total Assets Cluster 53 Statistics:
+Mean: 0.7225773243062895
+
+ Quick Assets/Total Assets Cluster 54 Statistics:
+Mean: 0.6489880453061342
+
+ Quick Assets/Total Assets Cluster 55 Statistics:
+Mean: 0.6651727200587653
+
+ Quick Assets/Total Assets Cluster 56 Statistics:
+Mean: 0.03449444622415193
+
+ Quick Assets/Total Assets Cluster 57 Statistics:
+Mean: 0.6851503616201663
+
+ Quick Assets/Total Assets Cluster 58 Statistics:
+Mean: 0.06589849381674738
+
+ Quick Assets/Total Assets Cluster 59 Statistics:
+Mean: 0.6890142582355212
+
+ Quick Assets/Total Assets Cluster 60 Statistics:
+Mean: 0.11746865286549754
+
+ Quick Assets/Total Assets Cluster 61 Statistics:
+Mean: 0.7539832867890389
+
+ Quick Assets/Total Assets Cluster 62 Statistics:
+Mean: 0.6555612716804027
+
+ Quick Assets/Total Assets Cluster 63 Statistics:
+Mean: 0.7808481298188505
+
+ Quick Assets/Total Assets Cluster 64 Statistics:
+Mean: 0.624043539062553
+
+ Quick Assets/Total Assets Cluster 65 Statistics:
+Mean: 0.8740356745155211
+
+ Quick Assets/Total Assets Cluster 66 Statistics:
+Mean: 0.6756183711245782
+
+ Quick Assets/Total Assets Cluster 67 Statistics:
+Mean: 0.6368739110147534
+
+ Quick Assets/Total Assets Cluster 68 Statistics:
+Mean: 0.7734573483948869
+
+ Quick Assets/Total Assets Cluster 69 Statistics:
+Mean: 0.8180683501676831
+
+ Quick Assets/Total Assets Cluster 70 Statistics:
+Mean: 0.7590517373787741
+
+ Quick Assets/Total Assets Cluster 71 Statistics:
+Mean: 0.8556341121916917
+
+ Quick Assets/Total Assets Cluster 72 Statistics:
+Mean: 0.7287034030167728
+
+ Quick Assets/Total Assets Cluster 73 Statistics:
+Mean: 0.679761116466773
+
+ Quick Assets/Total Assets Cluster 74 Statistics:
+Mean: 0.6928554850633228
+
+ Quick Assets/Total Assets Cluster 75 Statistics:
+Mean: 0.7434058685127525
+
+ Quick Assets/Total Assets Cluster 76 Statistics:
+Mean: 0.7912879299431964
+
+ Quick Assets/Total Assets Cluster 77 Statistics:
+Mean: 0.7446681304402694
+
+ Quick Assets/Total Assets Cluster 78 Statistics:
+Mean: 0.7989909067383564
+
+ Quick Assets/Total Assets Cluster 79 Statistics:
+Mean: 0.6107582701248759
+
+ Quick Assets/Total Assets Cluster 80 Statistics:
+Mean: 0.6713734616439478
+
+ Quick Assets/Total Assets Cluster 81 Statistics:
+Mean: 0.7489804464192324
+
+ Quick Assets/Total Assets Cluster 82 Statistics:
+Mean: 0.7873185150238676
+
+ Quick Assets/Total Assets Cluster 83 Statistics:
+Mean: 0.6978045312817813
+
+ Quick Assets/Total Assets Cluster 84 Statistics:
+Mean: 0.7654041432127116
+
+ Quick Assets/Total Assets Cluster 85 Statistics:
+Mean: 0.7761458877124354
+
+ Quick Assets/Total Assets Cluster 86 Statistics:
+Mean: 0.8141357464066369
+
+ Quick Assets/Total Assets Cluster 87 Statistics:
+Mean: 0.8330419310500853
+
+ Quick Assets/Total Assets Cluster 88 Statistics:
+Mean: 0.7392312208398738
+
+ Quick Assets/Total Assets Cluster 89 Statistics:
+Mean: 0.7195716219543626
+
+ Quick Assets/Total Assets Cluster 90 Statistics:
+Mean: 0.028027637180450853
+
+ Quick Assets/Total Assets Cluster 91 Statistics:
+Mean: 0.08150169195743497
+
+ Quick Assets/Total Assets Cluster 92 Statistics:
+Mean: 0.7963946740242946
+
+ Quick Assets/Total Assets Cluster 93 Statistics:
+Mean: 0.7888588967743566
+
+ Quick Assets/Total Assets Cluster 94 Statistics:
+Mean: 0.036919451903773014
+
+ Quick Assets/Total Assets Cluster 95 Statistics:
+Mean: 0.039302644080124884
+
+ Quick Assets/Total Assets Cluster 96 Statistics:
+Mean: 0.02188427177564642
+
+ Quick Assets/Total Assets Cluster 97 Statistics:
+Mean: 0.7251586297757678
+
+ Quick Assets/Total Assets Cluster 98 Statistics:
+Mean: 0.7628639785575513
+
+ Quick Assets/Total Assets Cluster 99 Statistics:
+Mean: 0.7087570038592774
+
+ Quick Assets/Total Assets Cluster 100 Statistics:
+Mean: 0.7837148243808528
+
+ Quick Assets/Total Assets Cluster 101 Statistics:
+Mean: 0.7687055327318744
+
+ Quick Assets/Total Assets Cluster 102 Statistics:
+Mean: 0.6956895154970769
+
+ Quick Assets/Total Assets Cluster 103 Statistics:
+Mean: 0.7106325235228323
+
+ Quick Assets/Total Assets Cluster 104 Statistics:
+Mean: 0.7668316428114128
+
+ Quick Assets/Total Assets Cluster 105 Statistics:
+Mean: 0.8671703891545464
+
+ Quick Assets/Total Assets Cluster 106 Statistics:
+Mean: 0.7790932880687395
+
+ Quick Assets/Total Assets Cluster 107 Statistics:
+Mean: 0.7327861536528589
+
+ Quick Assets/Total Assets Cluster 108 Statistics:
+Mean: 0.8084434686677985
+
+ Current Assets/Total Assets Cluster -1 Statistics:
+Mean: 0.4087182483534393
+
+ Current Assets/Total Assets Cluster 0 Statistics:
+Mean: 0.18265003563128998
+
+ Current Assets/Total Assets Cluster 1 Statistics:
+Mean: 0.6054714302667323
+
+ Current Assets/Total Assets Cluster 2 Statistics:
+Mean: 0.22734314667472294
+
+ Current Assets/Total Assets Cluster 3 Statistics:
+Mean: 0.351271234721918
+
+ Current Assets/Total Assets Cluster 4 Statistics:
+Mean: 0.214717288029129
+
+ Current Assets/Total Assets Cluster 5 Statistics:
+Mean: 0.4182424617841569
+
+ Current Assets/Total Assets Cluster 6 Statistics:
+Mean: 0.5742465586606481
+
+ Current Assets/Total Assets Cluster 7 Statistics:
+Mean: 0.1016373928251814
+
+ Current Assets/Total Assets Cluster 8 Statistics:
+Mean: 0.21848186984876616
+
+ Current Assets/Total Assets Cluster 9 Statistics:
+Mean: 0.33682014419750556
+
+ Current Assets/Total Assets Cluster 10 Statistics:
+Mean: 0.3703986606423189
+
+ Current Assets/Total Assets Cluster 11 Statistics:
+Mean: 0.2748385655134966
+
+ Current Assets/Total Assets Cluster 12 Statistics:
+Mean: 0.3212164442710885
+
+ Current Assets/Total Assets Cluster 13 Statistics:
+Mean: 0.17631182475186466
+
+ Current Assets/Total Assets Cluster 14 Statistics:
+Mean: 0.3001896017058943
+
+ Current Assets/Total Assets Cluster 15 Statistics:
+Mean: 0.4614906977073815
+
+ Current Assets/Total Assets Cluster 16 Statistics:
+Mean: 0.19643957344645235
+
+ Current Assets/Total Assets Cluster 17 Statistics:
+Mean: 0.480539224337005
+
+ Current Assets/Total Assets Cluster 18 Statistics:
+Mean: 0.17217238632439824
+
+ Current Assets/Total Assets Cluster 19 Statistics:
+Mean: 0.6256511068729409
+
+ Current Assets/Total Assets Cluster 20 Statistics:
+Mean: 0.283639637640614
+
+ Current Assets/Total Assets Cluster 21 Statistics:
+Mean: 0.12146374536002184
+
+ Current Assets/Total Assets Cluster 22 Statistics:
+Mean: 0.19893931768874587
+
+ Current Assets/Total Assets Cluster 23 Statistics:
+Mean: 0.2596397443482871
+
+ Current Assets/Total Assets Cluster 24 Statistics:
+Mean: 0.590170662648413
+
+ Current Assets/Total Assets Cluster 25 Statistics:
+Mean: 0.30716468437640426
+
+ Current Assets/Total Assets Cluster 26 Statistics:
+Mean: 0.7050181360433572
+
+ Current Assets/Total Assets Cluster 27 Statistics:
+Mean: 0.12437313512531172
+
+ Current Assets/Total Assets Cluster 28 Statistics:
+Mean: 0.6623106177960068
+
+ Current Assets/Total Assets Cluster 29 Statistics:
+Mean: 0.5012420788829421
+
+ Current Assets/Total Assets Cluster 30 Statistics:
+Mean: 0.119310840608644
+
+ Current Assets/Total Assets Cluster 31 Statistics:
+Mean: 0.6407812701187795
+
+ Current Assets/Total Assets Cluster 32 Statistics:
+Mean: 0.2905384581122576
+
+ Current Assets/Total Assets Cluster 33 Statistics:
+Mean: 0.24112480432731745
+
+ Current Assets/Total Assets Cluster 34 Statistics:
+Mean: 0.24730542810139344
+
+ Current Assets/Total Assets Cluster 35 Statistics:
+Mean: 0.7277209830385695
+
+ Current Assets/Total Assets Cluster 36 Statistics:
+Mean: 0.1944251029777094
+
+ Current Assets/Total Assets Cluster 37 Statistics:
+Mean: 0.5114315204405615
+
+ Current Assets/Total Assets Cluster 38 Statistics:
+Mean: 0.20173305733603078
+
+ Current Assets/Total Assets Cluster 39 Statistics:
+Mean: 0.16549977015415207
+
+ Current Assets/Total Assets Cluster 40 Statistics:
+Mean: 0.1856393023690668
+
+ Current Assets/Total Assets Cluster 41 Statistics:
+Mean: 0.6555822751213214
+
+ Current Assets/Total Assets Cluster 42 Statistics:
+Mean: 0.5329148709848991
+
+ Current Assets/Total Assets Cluster 43 Statistics:
+Mean: 0.6687370900584716
+
+ Current Assets/Total Assets Cluster 44 Statistics:
+Mean: 0.23682951985016532
+
+ Current Assets/Total Assets Cluster 45 Statistics:
+Mean: 0.899796246766671
+
+ Current Assets/Total Assets Cluster 46 Statistics:
+Mean: 0.6909379826522326
+
+ Current Assets/Total Assets Cluster 47 Statistics:
+Mean: 0.5588084333445382
+
+ Current Assets/Total Assets Cluster 48 Statistics:
+Mean: 0.20378755211129387
+
+ Current Assets/Total Assets Cluster 49 Statistics:
+Mean: 0.17968890238315738
+
+ Current Assets/Total Assets Cluster 50 Statistics:
+Mean: 0.9221601623507529
+
+ Current Assets/Total Assets Cluster 51 Statistics:
+Mean: 0.20877753235209112
+
+ Current Assets/Total Assets Cluster 52 Statistics:
+Mean: 0.21068758300320012
+
+ Current Assets/Total Assets Cluster 53 Statistics:
+Mean: 0.24256215546631732
+
+ Current Assets/Total Assets Cluster 54 Statistics:
+Mean: 0.2212617912317028
+
+ Current Assets/Total Assets Cluster 55 Statistics:
+Mean: 0.16853919849664967
+
+ Current Assets/Total Assets Cluster 56 Statistics:
+Mean: 0.6722157747801613
+
+ Current Assets/Total Assets Cluster 57 Statistics:
+Mean: 0.742965750835959
+
+ Current Assets/Total Assets Cluster 58 Statistics:
+Mean: 0.787754696917853
+
+ Current Assets/Total Assets Cluster 59 Statistics:
+Mean: 0.3098769512759242
+
+ Current Assets/Total Assets Cluster 60 Statistics:
+Mean: 0.19233857677113775
+
+ Current Assets/Total Assets Cluster 61 Statistics:
+Mean: 0.1559742077192148
+
+ Current Assets/Total Assets Cluster 62 Statistics:
+Mean: 0.8086152584306318
+
+ Current Assets/Total Assets Cluster 63 Statistics:
+Mean: 0.14948031311654983
+
+ Current Assets/Total Assets Cluster 64 Statistics:
+Mean: 0.15396960678299518
+
+ Current Assets/Total Assets Cluster 65 Statistics:
+Mean: 0.6188116483611433
+
+ Current Assets/Total Assets Cluster 66 Statistics:
+Mean: 0.17826659560934713
+
+ Current Assets/Total Assets Cluster 67 Statistics:
+Mean: 0.8304344792660988
+
+ Current Assets/Total Assets Cluster 68 Statistics:
+Mean: 0.7994827789770018
+
+ Current Assets/Total Assets Cluster 69 Statistics:
+Mean: 0.771952498486261
+
+ Current Assets/Total Assets Cluster 70 Statistics:
+Mean: 0.7194671077668866
+
+ Current Assets/Total Assets Cluster 71 Statistics:
+Mean: 0.8435849668268919
+
+ Current Assets/Total Assets Cluster 72 Statistics:
+Mean: 0.6781116429027892
+
+ Current Assets/Total Assets Cluster 73 Statistics:
+Mean: 0.7114470874361152
+
+ Current Assets/Total Assets Cluster 74 Statistics:
+Mean: 0.7783231828834256
+
+ Current Assets/Total Assets Cluster 75 Statistics:
+Mean: 0.7383415075064608
+
+ Current Assets/Total Assets Cluster 76 Statistics:
+Mean: 0.7537932775770334
+
+ Current Assets/Total Assets Cluster 77 Statistics:
+Mean: 0.8512545663191269
+
+ Current Assets/Total Assets Cluster 78 Statistics:
+Mean: 0.8858802624287442
+
+ Current Assets/Total Assets Cluster 79 Statistics:
+Mean: 0.8405601384586499
+
+ Current Assets/Total Assets Cluster 80 Statistics:
+Mean: 0.8482047500058051
+
+ Current Assets/Total Assets Cluster 81 Statistics:
+Mean: 0.6516437858568196
+
+ Current Assets/Total Assets Cluster 82 Statistics:
+Mean: 0.7670731504866627
+
+ Current Assets/Total Assets Cluster 83 Statistics:
+Mean: 0.8634206952412949
+
+ Current Assets/Total Assets Cluster 84 Statistics:
+Mean: 0.212710088573051
+
+ Current Assets/Total Assets Cluster 85 Statistics:
+Mean: 0.8276818208619307
+
+ Current Assets/Total Assets Cluster 86 Statistics:
+Mean: 0.20022264183008498
+
+ Current Assets/Total Assets Cluster 87 Statistics:
+Mean: 0.7465554212220693
+
+ Current Assets/Total Assets Cluster 88 Statistics:
+Mean: 0.11253836411531733
+
+ Current Assets/Total Assets Cluster 89 Statistics:
+Mean: 0.8332041659456539
+
+ Current Assets/Total Assets Cluster 90 Statistics:
+Mean: 0.7620635064565143
+
+ Current Assets/Total Assets Cluster 91 Statistics:
+Mean: 0.8573886744810933
+
+ Current Assets/Total Assets Cluster 92 Statistics:
+Mean: 0.23196429167598476
+
+ Current Assets/Total Assets Cluster 93 Statistics:
+Mean: 0.8718351656618896
+
+ Current Assets/Total Assets Cluster 94 Statistics:
+Mean: 0.8175274616649187
+
+ Current Assets/Total Assets Cluster 95 Statistics:
+Mean: 0.8611202994123346
+
+ Current Assets/Total Assets Cluster 96 Statistics:
+Mean: 0.947422508140047
+
+ Current Assets/Total Assets Cluster 97 Statistics:
+Mean: 0.8203461547549161
+
+ Current Assets/Total Assets Cluster 98 Statistics:
+Mean: 0.9048352255911097
+
+ Current Assets/Total Assets Cluster 99 Statistics:
+Mean: 0.85501499916786
+
+ Current Assets/Total Assets Cluster 100 Statistics:
+Mean: 0.9520369784062722
+
+ Current Assets/Total Assets Cluster 101 Statistics:
+Mean: 0.8236251115974322
+
+ Current Assets/Total Assets Cluster 102 Statistics:
+Mean: 0.8787235592021374
+
+ Current Assets/Total Assets Cluster 103 Statistics:
+Mean: 0.8920735396301274
+
+ Current Assets/Total Assets Cluster 104 Statistics:
+Mean: 0.8131564201526696
+
+ Current Assets/Total Assets Cluster 105 Statistics:
+Mean: 0.9431787618372023
+
+ Current Assets/Total Assets Cluster 106 Statistics:
+Mean: 0.6829030271265408
+
+ Current Assets/Total Assets Cluster 107 Statistics:
+Mean: 0.7337716556505736
+
+ Current Assets/Total Assets Cluster 108 Statistics:
+Mean: 0.9375047547766796
+
+ Current Assets/Total Assets Cluster 109 Statistics:
+Mean: 0.9183716461327431
+
+ Current Assets/Total Assets Cluster 110 Statistics:
+Mean: 0.9270608798855139
+
+ Current Assets/Total Assets Cluster 111 Statistics:
+Mean: 0.8938509966405522
+
+ Current Assets/Total Assets Cluster 112 Statistics:
+Mean: 0.9577096477771176
+
+ Current Assets/Total Assets Cluster 113 Statistics:
+Mean: 0.6985396221260116
+
+ Current Assets/Total Assets Cluster 114 Statistics:
+Mean: 0.7922472632772646
+
+ Current Assets/Total Assets Cluster 115 Statistics:
+Mean: 0.853060324922702
+
+ Current Assets/Total Assets Cluster 116 Statistics:
+Mean: 0.9356584957916695
+
+ Current Assets/Total Assets Cluster 117 Statistics:
+Mean: 0.8252657007873578
+
+ Current Assets/Total Assets Cluster 118 Statistics:
+Mean: 0.7602919000274974
+
+ Current Assets/Total Assets Cluster 119 Statistics:
+Mean: 0.8361279995430048
+
+ Current Assets/Total Assets Cluster 120 Statistics:
+Mean: 0.9102064515684841
+
+ Current Assets/Total Assets Cluster 121 Statistics:
+Mean: 0.7355758044714459
+
+ Current Assets/Total Assets Cluster 122 Statistics:
+Mean: 0.8666371800413838
+
+ Current Assets/Total Assets Cluster 123 Statistics:
+Mean: 0.8376595652373086
+
+ Current Assets/Total Assets Cluster 124 Statistics:
+Mean: 0.9135814991323654
+
+ Current Assets/Total Assets Cluster 125 Statistics:
+Mean: 0.8761732136626459
+
+ Current Assets/Total Assets Cluster 126 Statistics:
+Mean: 0.9803024905540291
+
+ Current Assets/Total Assets Cluster 127 Statistics:
+Mean: 0.9326071177670743
+
+ Current Assets/Total Assets Cluster 128 Statistics:
+Mean: 0.8837682321352268
+
+ Current Assets/Total Assets Cluster 129 Statistics:
+Mean: 0.8690314277730975
+
+ Current Assets/Total Assets Cluster 130 Statistics:
+Mean: 0.7143133971392244
+
+ Current Assets/Total Assets Cluster 131 Statistics:
+Mean: 0.8159324066447259
+
+ Current Assets/Total Assets Cluster 132 Statistics:
+Mean: 0.9031033237382223
+
+ Current Assets/Total Assets Cluster 133 Statistics:
+Mean: 0.8596448566406454
+
+ Current Assets/Total Assets Cluster 134 Statistics:
+Mean: 0.8389170106206418
+
+ Current Assets/Total Assets Cluster 135 Statistics:
+Mean: 0.9235609660498423
+
+ Current Assets/Total Assets Cluster 136 Statistics:
+Mean: 0.8956139689241922
+
+ Current Assets/Total Assets Cluster 137 Statistics:
+Mean: 0.8800812875601876
+
+ Current Assets/Total Assets Cluster 138 Statistics:
+Mean: 0.8816553236495848
+
+ Current Assets/Total Assets Cluster 139 Statistics:
+Mean: 0.8646764060511017
+
+ Current Assets/Total Assets Cluster 140 Statistics:
+Mean: 0.9649262561476512
+
+ Current Assets/Total Assets Cluster 141 Statistics:
+Mean: 0.9557622718540622
+
+ Current Assets/Total Assets Cluster 142 Statistics:
+Mean: 0.9697816180379115
+
+ Current Assets/Total Assets Cluster 143 Statistics:
+Mean: 0.7156085412737515
+
+ Current Assets/Total Assets Cluster 144 Statistics:
+Mean: 0.136290458668161
+
+ Current Assets/Total Assets Cluster 145 Statistics:
+Mean: 0.1612445840042414
+
+ Current Assets/Total Assets Cluster 146 Statistics:
+Mean: 0.9158707098627156
+
+ Current Assets/Total Assets Cluster 147 Statistics:
+Mean: 0.1087632058547788
+
+ Current Assets/Total Assets Cluster 148 Statistics:
+Mean: 0.20645255107438598
+
+ Current Assets/Total Assets Cluster 149 Statistics:
+Mean: 0.25105452868279077
+
+ Current Assets/Total Assets Cluster 150 Statistics:
+Mean: 0.03777922109926386
+
+ Current Assets/Total Assets Cluster 151 Statistics:
+Mean: 0.9626632479369622
+
+ Current Assets/Total Assets Cluster 152 Statistics:
+Mean: 0.887284558545199
+
+ Current Assets/Total Assets Cluster 153 Statistics:
+Mean: 0.9085899730328288
+
+ Current Assets/Total Assets Cluster 154 Statistics:
+Mean: 0.9545291079006548
+
+ Current Assets/Total Assets Cluster 155 Statistics:
+Mean: 0.18109542267294182
+
+ Current Assets/Total Assets Cluster 156 Statistics:
+Mean: 0.8454127377604376
+
+ Current Assets/Total Assets Cluster 157 Statistics:
+Mean: 0.18913759934441118
+
